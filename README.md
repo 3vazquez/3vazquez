@@ -4,8 +4,8 @@ Computer Science Specialist, with experience in the development of Computer Syst
 
 [![](https://img.icons8.com/color/48/000000/linkedin-2--v2.png)](https://linkedin.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=evazquez2025)
-![](https://badges.pufler.dev/visits/evazquez2025/evazquez2025?color=black&logo=github&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=3vazquez)
+![](https://badges.pufler.dev/visits/evazquez2025/3vazquez?color=black&logo=github&style=flat-square)
 
 ---
 
@@ -69,10 +69,10 @@ Computer Science Specialist, with experience in the development of Computer Syst
 
 ### 📊 GitHub Stats | Estadísticas de GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=evazquez2025)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=3vazquez)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evazquez2025&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evazquez2025&layout=compact&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3vazquez&layout=compact&langs_count=8)
 
 ### 🚀 Support My Work
 
