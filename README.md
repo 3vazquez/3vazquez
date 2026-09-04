@@ -75,7 +75,7 @@ Computer Science Specialist, with experience in the development of Computer Syst
 <img src="https://github-stats-extended.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula&border_radius=10&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula&border_radius=10&hide_border=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=3vazquez&theme=dracula&border_radius=10&hide_border=true" width="49%" />
-
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=3vazquez&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3vazquez&layout=compact&langs_count=8&theme=dracula&border_radius=10&hide_border=true" width="49%" />
 
 ## 🏆 Trophy | Trofeos
