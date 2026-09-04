@@ -80,7 +80,7 @@ Computer Science Specialist, with experience in the development of Computer Syst
 
 ## 🏆 Trofeos
 
-<img src="https://github-profile-trophy.vercel.app/?username=3vazquez&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-trophy.vercel.app/?username=3vazquez&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 
 <br>
 
