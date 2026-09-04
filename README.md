@@ -67,6 +67,17 @@ Computer Science Specialist, with experience in the development of Computer Syst
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/evazquez)
 ---
 
+<div align="center">
+
+## 📊 GitHub Stats | Estadísticas de GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=3vazquez&theme=tokyonight&border_radius=10&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3vazquez&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true" width="49%" />
+
+</div>
+
 ### 📊 GitHub Stats | Estadísticas de GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=3vazquez)](https://git.io/streak-stats)
