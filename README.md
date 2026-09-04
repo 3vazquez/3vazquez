@@ -72,7 +72,7 @@ Computer Science Specialist, with experience in the development of Computer Syst
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hola%2C%20soy%203vazquez&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20%7C%20Creador%20%7C%20Aprendiz%20constante&descAlignY=55&descSize=18" width="100%" />
 
 ## 📊 GitHub Statistics | Estadísticas de GitHub
-
+<img src="https://github-stats-extended.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula&border_radius=10&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula&border_radius=10&hide_border=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=3vazquez&theme=dracula&border_radius=10&hide_border=true" width="49%" />
 
