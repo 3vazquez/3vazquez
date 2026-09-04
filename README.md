@@ -18,10 +18,10 @@ Computer Science Specialist, with experience in the development of Computer Syst
 ### 🚀 About Me | Sobre mí
 
 - 🔭 I’m currently working on AML Compass.
-- 🌱 I’m currently learning IA.
+- 🌱 I’m currently learning **Artificial Intelligence**.
 - 👯 I’m looking to collaborate on interesting projects.
 - 🤔 I’m currently focused on improving my skills in ![CakePHP](https://img.shields.io/badge/-cakephp-C92735?style=flat&logo=cakephp&logoColor=white).
-- 💬 Ask me about anything related to ![PHP](https://img.shields.io/badge/-Php-396c94?style=flat&logo=Php&logoColor=white).
+- 💬 Ask me about anything related to ![PHP](https://img.shields.io/badge/-Php-777BB4?style=flat&logo=Php&logoColor=white).
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-FF6347?style=flat&logo=gmail&logoColor=white)](mailto:3vazquezaragon@gmail.com).
 
 ---
@@ -84,7 +84,7 @@ Computer Science Specialist, with experience in the development of Computer Syst
 
 <br>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=3vazquez-github-readme&label=Visitas+al+perfil&color=1a1a2e&style=flat)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=3vazquez&label=Visitas+al+perfil&color=1a1a2e&style=flat)
 
 </div>
 
