@@ -73,15 +73,15 @@ Computer Science Specialist, with experience in the development of Computer Syst
 
 ## 📊 GitHub Statistics | Estadísticas de GitHub
 
-<img src="https://github-stats-extended.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&border_radius=10&hide_border=true" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&border_radius=10&hide_border=true" width="60%" />
 
-<img src="https://streak-stats.demolab.com/?user=3vazquez&theme=radical&border_radius=10&hide_border=true" width="30%" />
+<img src="https://streak-stats.demolab.com/?user=3vazquez&theme=radical&border_radius=10&hide_border=true" width="60%" />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=3vazquez&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=3vazquez&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true" width="50%" />
 
 ## 🏆 Trophy | Trofeos
 
-<img src="https://github-trophy.vercel.app/?username=3vazquez&theme=dracula&no-frame=true&row=1&column=7" width="100%" />
+<img src="https://github-trophy.vercel.app/?username=3vazquez&theme=dracula&no-frame=true&row=1&column=7" width="80%" />
 
 <br>
 
