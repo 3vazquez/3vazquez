@@ -72,13 +72,13 @@ Computer Science Specialist, with experience in the development of Computer Syst
 [![GitHub Streak](https://streak-stats.demolab.com/?user=3vazquez)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3vazquez&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=3vazquez&layout=compact&langs_count=8)
 
 ### 🚀 Support My Work
 
 If you enjoy my projects and want to support my work, you can donate via any of the platforms below:
 
-[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=flat&logo=github&logoColor=white)](https://github.com/sponsors/your-username)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%23EA4AAA?style=flat&logo=github&logoColor=white)](https://github.com/sponsors/3vazquez)
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.me/evazquezaragon)
 
