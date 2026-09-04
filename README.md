@@ -69,7 +69,7 @@ Computer Science Specialist, with experience in the development of Computer Syst
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=¡Hola,%20soy%203vazquez!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20|%20Creador%20|%20Aprendiz%20constante&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Hola%2C%20soy%203vazquez&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20%7C%20Creador%20%7C%20Aprendiz%20constante&descAlignY=55&descSize=18" width="100%" />
 
 ## 📊 Estadísticas de GitHub
 
@@ -80,20 +80,13 @@ Computer Science Specialist, with experience in the development of Computer Syst
 
 ## 🏆 Trofeos
 
-<img src="https://github-profile-trophy.vercel.app/?username=3vazquez&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=3vazquez&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
 
 <br>
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=3vazquez&label=Visitas+al+perfil&color=1a1a2e&style=flat)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=3vazquez-github-readme&label=Visitas+al+perfil&color=1a1a2e&style=flat)
 
 </div>
-
-### 📊 GitHub Stats | Estadísticas de GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=3vazquez)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3vazquez&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=3vazquez&layout=compact&langs_count=8)
 
 ### 🚀 Support My Work
 
